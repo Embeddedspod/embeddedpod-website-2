@@ -29,7 +29,7 @@ url: https://embeddedspod.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /embeddedpod-website-2
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+# source-code: https://github.com/thecdil/bootstrap-template
 
 ##########
 # GOOGLE ANALYTICS [optional!]
